@@ -1,7 +1,5 @@
 # Nostra Page Project
 
-![Project Banner](link-to-your-project-banner.png)
-
 Welcome to the Nostra Page Project, a web application built with HTML, CSS, and JavaScript that allows users to create and share personalized web pages with ease. Whether you want to showcase your portfolio, create an online resume, or simply express yourself online, Nostra Page empowers you to design and customize your web presence effortlessly.
 
 ## Features
@@ -42,8 +40,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-Have questions or suggestions? Feel free to [reach out](mailto:your-email@example.com).
+Have questions or suggestions? Feel free to [reach out](mailto:harimak.d@gmail.com).
 
 ---
-
-Remember to replace placeholders like `link-to-your-project-banner.png`, `your-username`, and `your-email@example.com` with actual details relevant to your project. Additionally, you can customize the feature list, getting started instructions, and acknowledgments to match the specifics of your Nostra Page project.
